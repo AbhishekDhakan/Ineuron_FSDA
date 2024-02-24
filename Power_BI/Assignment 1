@@ -1,0 +1,92 @@
+Q1. What do you mean by BI ? Explain
+
+Ans ->
+
+Business intelligence, or BI, is the detective's job for businesses. Rather than solving crimes BI analyzes a business's data to  
+determine how well it is performing.Gathering clues: BI gathers data from various sources, such as sales reports, social media posts, and
+website traffic. 
+Putting it together: BI sorts and organizes the data. 
+Analyzing: BI analyzes the data to determine what’s happening. Making it clear bi findings are presented in easily understandable charts and graphs
+
+it does it matter for some below points that i think it as a potentials of BI
+
+1. smart decisions: BI helps businesses make better choices based on facts, not guesses.
+2. spotting trends: You can see what's working and what's not, and plan for the future.
+3. saving time and money: BI can find ways to do things more efficiently.
+4. staying ahead: It helps businesses know what their competitors are up to and how to stay ahead.
+
+Think of BI as a flashlight that helps businesses see where they're going. It's all about finding the path to success!
+
+
+Q1(a). How Power-BI helps in BI, and how does it help Analysts? Explain
+
+Ans ->
+
+Power BI is essential in the world of Business Intelligence (BI)  helping businesses and analysts in big ways:
+
+For Businesses:
+
+Easy data access: It makes understanding data easy for everyone, not just tech experts, so decisions can be based on facts.
+Cool visuals: It creates cool dashboards and reports that make boring data look interesting and easy to understand.
+Quick decisions: It helps businesses see what's happening right now, so they can react fast to changes.
+Saves time: It helps businesses do stuff with data faster, so they can focus on other important things.
+
+For Analysts:
+
+Simple exploring: It helps analysts look at all kinds of data easily and figure out what it means.
+Fancy charts: It has lots of different chart options to make reports look awesome and tell a story.
+Teamwork: It lets analysts work together and share reports, so everyone's on the same page.
+Smart help: It uses smart technology to find patterns in data and suggest stuff, making analysts' jobs easier.
+
+Power BI is super tool that helps analysts see things they couldn't before in data.
+
+Q2. Explain Descriptive analytics?
+
+Ans ->
+
+Think of descriptive analytics as peeking into your business's rearview mirror. It doesn't predict the future, but it paints a clear picture of **what already happened**. Here's the gist:
+
+1. Shrinking Big Data: It crunches down mountains of data into digestible summaries, making it easier to grasp.
+2. Connecting the Dots: It helps identify patterns and trends, like spotting seasonal sales spikes or pinpointing product preferences.
+3. Gauging Performance: It gives you a snapshot of how things are going, like measuring customer satisfaction or tracking website traffic.
+4. It tells you what has transpired in the past based on the data you have.
+
+ Therfore in essence descriptive analytics empowers you to understand the past and make informed decisions for the future.
+
+Q3. Explain Predictive analytics ?
+
+Ans ->
+
+Its like your Business's Fortune Teller
+Imagine having a magic crystal ball for your business! With predictive analytics, that's kind of what it's like. Here's the simplified version:
+
+a. Past in Focus: It peeks into your business's history, looking at sales, customer actions, website visits, etc.
+b. Pattern Detective:It's like Sherlock Holmes, searching for clues and connections in the data. It might find that sales peak during holidays or specific customer types buy more often.
+c. Future Forecast: Based on these patterns, it makes educated guesses about what's to come. Think predicting next month's sales or who's most likely to buy a new product.
+d. smarter Decisions: These predictions are like valuable tips helping your business make informed choices. Imagine adjusting stock levels, targeting marketing better, or personalizing customer experiences.
+
+from a nutshell prospects predictive analytics uses past data to guesstimate the future, making your business more prepared and successful.
+
+Q4. Explain perspective analytics ?
+
+Ans ->
+
+Perspective analytics is like putting on different hats to see things from various viewpoints. It involves considering situations from multiple angles
+including those of customers, competitors, or even different departments within your own company. 
+Here is the brief a.Goal - Gain a deeper understanding of a situation by seeing it through different lenses. b.Benefits - Improved decision-making better 
+problem-solving, and increased empathy. c.Methods - Gathering insights from different stakeholders, conducting surveys and role-playing exercises.
+
+Think of it as expanding your vision beyond your own perspective to make more informed and well-rounded decisions.
+
+Q5. Write five real-life questions that PowerBi can solve ? 
+
+Ans ->
+
+As of now working as an data analyst in a big company i can ralay it to some main problems such as 
+Sales: Which areas, products, and times are selling best? What needs a boost?
+Customers - Who are our best customers? Can we group them based on habits?
+Inventory - Do we have too much or too little of anything? Can we predict what's needed next?
+Marketing - Which campaigns work best? Are we getting the most out of each channel?
+Employees - How are they doing? Who's excelling, where can we improve? Are there patterns in satisfaction or turnover?
+
+It's like having a powerful detective tool for your business data, uncovering insights to make smarter decisions.
