@@ -1,0 +1,143 @@
+Q1. Explain the advantages of Natural Queries in PowerBi with an example ?
+
+Ans ->
+for example being able to analyze complex data without writing code. That's the power of Natural Language (NLQ) in Power BI  
+It makes data accessible and intuitive, even for those without technical expertise.
+
+imagine Your company sells diverse products across regions. NLQ simplifies uncovering hidden gems within your data. 
+Forget writing complex queries just speak your mind Want to know the Northeast top-selling products last month Simply ask 
+What sold best in the Northeast in January? Power BI understands your question and instantly delivers a visual answer.
+
+Here why NLQ in Power BI is a game-changer >
+
+1. Unlocking Data for Everyone - NLQ breaks down barriers for non-technical users. Ask questions in plain language, get clear answers.
+2. Faster Answers, Faster Decisions - Skip the coding, type your questions, and get insights in seconds. Speedy decisions, happy stakeholders!
+3. Data Exploration Made Easy - NLQ encourages independent exploration, fostering a data-driven culture where everyone participates.
+4. Empowering All Stakeholders - No longer limited to data experts, with NLQ, anyone can contribute to data-driven decision-making.
+5. Agile Insights on Demand - Ask your questions, get immediate answers. NLQ provides agility in querying and exploration
+  empowering you to understand your data better.
+
+Q2. Explain Web Front End(WFE) cluster from Power BI Service Architecture ?
+
+Ans ->
+
+Deep within the Power BI Service architecture resides a crucial player - the Web Front End (WFE) cluster. For example accessing reports dashboards
+or datasets on Power BI web or mobile. Every request you send journeys through this vital component. Think of it as the gateway to your data insights
+
+But what exactly does the WFE cluster do? Lets dive into its key responsibilities -
+
+1. User Request Maestro - Remember when you open a report or filter something? Your request lands right here, ready to be handled with precision.
+2. Authentication Guardian - The WFE cluster acts as your ID checker, ensuring you have the proper access rights before letting you in. Only authorized users get through the gate!
+3. Request Pathfinder -  Once your identity is verified, the WFE cluster knows where to send your request. Need a report? It'll point you to the backend service responsible for delivering it.
+4. Load Balancing Juggler - Imagine high traffic - multiple users requesting data simultaneously. The WFE cluster, like a skilled juggler, distributes these requests evenly across its instances, ensuring smooth performance for everyone.
+5. Resilient Backup Champion - Things can go wrong, but fear not! The WFE cluster is designed for high availability. If one instance fails, another seamlessly takes over, guaranteeing uninterrupted service.
+
+So therefore WFE cluster in Power BI is the ultimate facilitator ensuring your data journey is smooth secure, and efficient.
+
+Key Benefits of the WFE Cluster -
+
+1. Handles User Requests: Seamlessly manages your interactions with Power BI content.
+2. User Authentication and Authorization:** Keeps unauthorized eyes out, protecting data security.
+3. Routing Requests: Directs you to the right data destination for faster insights.
+4. Load Balancing: Maintains optimal performance even during peak usage times.
+5. Failover and Redundancy: Guarantees uninterrupted service, even in case of unexpected issues.
+
+The WFE cluster is a silent hero in the Power BI world, making sure your data exploration is a seamless and enjoy 
+experience. Now you know the secret behind the magic of it
+
+Q3. Explain Back End cluster from Power BI Service Architecture ? 
+
+Ans ->
+
+Every data insight you see in Power BI every report you interact with has a working tirelessly behind the scenes 
+the Back End cluster. Think of it as the engine that makes your data exploration smooth and efficient.
+
+it does the following things are as follows such as 
+
+1. Data Processing Mastermind - The Back End cluster takes charge, retrieving data, applying transformations, and making sure
+   your information is always up-to-date.
+2. Storage Guardian - All your reports, dashboards, datasets, and workspaces have a safe haven - the Back End cluster. It ensures efficient 
+   storage and quick retrieval, so you can access your data whenever you need it.
+3. Query Whisperer - It processes your queries retrieves relevant information from datasets and delivers the answers you seek
+   displayed in clear and concise formats.
+4. Data Security Champion - Protecting your valuable data is paramount. The Back End cluster acts as a security fortress
+   enforcing access controls, encryption, and other measures to keep your information safe and sound.
+5. Metadata Maestro - Every bit of information about your Power BI content like data lineage and report connections is
+   meticulously managed by the Back End cluster. This "metadata magic" enables data governance and smooth collaboration among users.
+6. Scalability - As your data needs grow, the Back End cluster can adapt. It scales horizontally, adding more processing
+   power to handle increasing workloads and user demands, ensuring smooth and efficient performance.
+
+Q4. What ASP.NET component does in Power BI Service Architecture ?
+
+Ans ->
+
+In Power bi the one displaying your reports, dashboards, and data in all its glory goes to ASP.NET Think of it as the engine that makes the Power bi
+experience smooth and seamless.
+
+There are some imp ASP.NET points such as :-
+a. Data Visualization Magician : ASP.NET brings your data to life! It crafts all those eye-catching charts, graphs,
+   and data tables you see in Power BI, making insights instantly accessible.
+b. Security Sentinel : Remember logging in with your username and password ASP.NET is the security guard! It verifies 
+   your identity and grants access only to what you're authorized to see, keeping your data safe and secure.
+c. Back End Liaison : ASP.NET acts as the messenger between you and the data powerhouse behind the scenes. When you request a 
+   report or refresh data, ASP.NET retrieves the information and delivers it directly to you.
+d. Customization Champion : Companies sometimes want to add their own flair or connect Power BI with other tools. 
+   ASP.NET empowers developers to build custom web apps or integrate features, making Power BI truly adaptable.
+e. Performance Maestro : Imagine hundreds of users accessing Power BI simultaneously. ASP.NET ensures everything runs smoothly
+   handling high traffic efficiently and making sure your reports load lightning fast.
+   i would say ASP.NET is the backbone of the user experience, guaranteeing a secure, efficient, and visually engaging data journey.
+
+Q5. Compare Microsoft Excel and PowerBi Desktop on the following features: Data import, Data transformation, Modeling, Reporting, Server Deployment,
+    Convert Models, Cost ?
+
+Ans ->
+
+Choosing between Excel and Power BI Desktop depends on your data analysis needs and goals. lets compare the breakdown key features to understand it better:
+
+1. Data Import :
+   Excel : Wide range of sources, but manual steps and limited features.
+   Power BI Desktop : Robust connectivity options, advanced query capabilities, easier import and transformation.
+2. Data Transformation :
+   Excel : Basic functions, formulas, and tools, complex tasks require manual work.
+   Power BI Desktop : Powerful Power Query Editor for intuitive transformation, cleaning, shaping, and merging data from multiple sources.
+3. Modeling :
+   Excel : Basic modeling with PivotTables, charts, and Data Model, limited scalability for large datasets.
+   Power BI Desktop:** Robust data modeling engine, create relationships, define calculated columns/measures with DAX, build hierarchies for deeper analysis.
+4. Reporting :
+   Excel - Visually appealing reports with PivotTables, charts, and sparklines, limited customization options.
+   Power BI Desktop - Extensive visualization options, interactive dashboards, advanced formatting, create dynamic, shareable reports.
+5. Server Deployment :
+   Excel : Files stored on servers, email, or cloud storage, difficult collaboration and version control.
+   Power BI Desktop : Models/reports published to Power BI Service, centralized storage, secure sharing, collaboration, access control, scheduled data refresh, automatic updates.
+6. Model Conversion :
+   Excel : Conversion to Power BI Desktop models possible, may require adjustments.
+   Power BI Desktop : Seamless conversion to Power BI Service models, import and convert Excel files to Power BI datasets.
+7. Cost :
+   Excel : Paid through Office suite licensing, additional costs for advanced features or add-ins.
+   Power BI Desktop : Free, but advanced features require Power BI Pro/Premium subscription (monthly/annual cost).
+
+Q6. List 20 data sources supported by Power Bi desktop ?
+
+Ans->
+
+there are many data sourceses that are available but here the kind of main ones
+1. Excel Workbook Files (.xlsx, .xls) : Your trusty spreadsheet companions, readily welcomed into Power BI Desktop.
+2. CSV Files : Simple yet powerful, import comma-separated values with ease.
+3. SQL Server Databases : Dive deep into structured data stored in your local SQL Server databases.
+4. Azure SQL Database : Analyze data seamlessly in the cloud with Azure's managed SQL service.
+5. Oracle Database : Connect to your enterprise Oracle databases and unlock hidden insights.
+6. MySQL Database : Explore the open-source world of data with MySQL integration.
+7. PostgreSQL Database : Another open-source favorite, tap into the power of PostgreSQL.
+8. IBM DB2 Database : Connect to your IBM DB2 databases and expand your data reach.
+9. Teradata Database : Analyze massive datasets efficiently using Teradata integration.
+10. Google BigQuery : Leverage the power and scalability of Google's cloud-based data warehouse.
+11. Amazon Redshift : Unlock insights from massive datasets stored in Amazon's cloud data warehouse.
+12. Microsoft Access Database : Connect to your familiar Access databases for easy data access.
+13. SharePoint Online List : Directly import and analyze data stored in your SharePoint Online lists.
+14. Salesforce : Gain valuable insights from your Salesforce CRM data directly within Power BI Desktop.
+15. Dynamics 365 : Seamlessly integrate your Dynamics 365 data for comprehensive analysis.
+16. Azure Data Lake Storage : Extract insights from unstructured data residing in your Azure Data Lake.
+17. Azure Blob Storage : Analyze data stored in Azure Blob Storage, unlocking its potential.
+18. Web Data Sources (HTML, XML, JSON) : Extract valuable information directly from websites and APIs.
+19. OData Feeds : Connect to data exposed through OData feeds for easy access.
+20. Hadoop File (HDFS) : Explore and analyze big data stored in Hadoop Distributed File System.
