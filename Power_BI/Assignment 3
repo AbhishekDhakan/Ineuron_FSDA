@@ -1,0 +1,49 @@
+Q1. List & explain different Power Bi Products ?
+
+Ans ->
+
+Power BI empowers you to transform data into actionable insights. Build stunning reports on your computer (Desktop), share them securely online (Service), access them anytime on your phone
+(Mobile Apps), or host them within your organization (Report Server). This comprehensive suite caters to every need, from basic reporting to advanced analysis, equipping individuals and organizations to
+make data-driven decisions with confidence.
+
+here are some individual characteristic of them. let us go through it 
+1. Power BI Desktop: Build stunning reports and visualizations directly on your computer.
+2. Power BI Service: Share your reports and dashboards securely online, fostering collaboration with colleagues.
+3. Power BI Mobile Apps: Access your data insights anytime, anywhere, directly on your mobile device.
+4. Power BI Report Server: Host your reports within your organization's infrastructure for secure and controlled access.
+5. Power BI Embedded: Seamlessly integrate reports and dashboards into other applications for a unified user experience.
+6. Power BI Premium: Unlock advanced features and enhanced performance for complex data management and deployment needs within organizations.
+7. Power BI Pro: Gain access to additional sharing and collaboration options for effective teamwork and data-driven decision-making.
+
+Q2. What limitations of Excel Microsoft solved by Power bi ?
+
+Ans ->
+
+While Excel serves as a valuable tool for many, Power BI offers several advantages, particularly when handling large datasets and complex analyses:
+
+A. Addressing Capacity Issues: Unlike Excel, which might struggle with performance and speed when dealing with significant data volumes, Power BI handles massive datasets with ease. 
+   Its robust infrastructure ensures smooth and efficient data processing.
+B. Enhanced Visualization Capabilities: Power BI goes beyond Excel's basic charting, offering powerful visualization options like custom visuals, drill-downs, and dynamic formatting.
+   This unlocks deeper insights and a more comprehensive understanding of your data.
+C. Seamless Data Connectivity: Forget the limitations of connecting to various data sources in Excel. Power BI seamlessly integrates with databases, cloud services, web sources,
+   and more. This allows effortless data import and analysis from multiple sources within a single environment.
+D. Simplified Collaboration: Sharing Excel files through email or file servers can be cumbersome. Power BI offers a centralized platform (Power BI Service) for secure report and 
+   dashboard sharing and collaboration. Collaborate in real-time, access reports from anywhere, and ensure everyone stays on the same page.
+E. Scalability for Growth: Power BI, particularly through Power BI Premium, tackles the limitations faced by Excel in handling large datasets and complex calculations. 
+   Dedicated resources and enhanced performance ensure optimal results even with extensive data and high user demand.
+
+In summary, Power BI empowers you to go beyond the limitations of Excel, offering a robust and versatile platform for handling large datasets, gaining deeper insights, and fostering collaboration effectively.
+
+Q3. Explain PowerQuery ?
+
+Ans ->
+
+Think of Power Query as your data cleaning and organizing assistant in Excel and Power BI Desktop. It helps you with:
+
+1. Bringing data in: Import information from various sources like databases, files, websites, and cloud services.
+2. Shaping the data: Once imported, transform and arrange the data the way you need. Filter, sort, group, and merge tables with ease.
+3. Cleaning up the mess: Power Query helps identify and fix errors, remove duplicates, and ensure your data is accurate and ready for analysis.
+4. Building custom routines: Create your own workflows for data transformation using the visual Power Query Editor. Save and reuse these steps for repetitive tasks.
+5. Optimizing for speed: Power Query pushes data processing tasks back to the source whenever possible, making everything faster and more efficient.
+
+Overall, Power Query simplifies data preparation, letting you spend less time cleaning and more time gaining insights from your data.
