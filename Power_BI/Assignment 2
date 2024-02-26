@@ -29,7 +29,8 @@ But what exactly does the WFE cluster do? Lets dive into its key responsibilitie
 1. User Request Maestro - Remember when you open a report or filter something? Your request lands right here, ready to be handled with precision.
 2. Authentication Guardian - The WFE cluster acts as your ID checker, ensuring you have the proper access rights before letting you in. Only authorized users get through the gate!
 3. Request Pathfinder -  Once your identity is verified, the WFE cluster knows where to send your request. Need a report? It'll point you to the backend service responsible for delivering it.
-4. Load Balancing Juggler - Imagine high traffic - multiple users requesting data simultaneously. The WFE cluster, like a skilled juggler, distributes these requests evenly across its instances, ensuring smooth performance for everyone.
+4. Load Balancing Juggler - Imagine high traffic - multiple users requesting data simultaneously. The WFE cluster, like a skilled juggler, distributes these requests evenly 
+   across its instances, ensuring smooth performance for everyone.
 5. Resilient Backup Champion - Things can go wrong, but fear not! The WFE cluster is designed for high availability. If one instance fails, another seamlessly takes over, guaranteeing uninterrupted service.
 
 So therefore WFE cluster in Power BI is the ultimate facilitator ensuring your data journey is smooth secure, and efficient.
