@@ -1,0 +1,98 @@
+Q1. Explain DAX ? 
+
+Ans ->
+
+DAX also known as (Data Analysis Expressions) also it is a formula language specifically designed for Power BI. It allows users to perform calculations, create calculated 
+columns and tables, and manipulate data within the platform. While DAX shares similarities with Excel formulas, it is optimized for working with relational data 
+and offers enhanced power for complex calculations. 
+Here are some key features of DAX:
+a. Creating measures: DAX enables the creation of measures, which are calculations based on data from tables within the Power BI data model.
+b. Data manipulation and analysis: DAX offers a wide range of functions for aggregating, filtering, and manipulating data. This allows users to 
+   perform various calculations, including sum, average, count, and more.
+c. Formula flexibility: DAX formulas can be written directly in Power BI Desktop's formula bar or embedded within calculated columns and measures in the data model.
+
+Q2. Explain datasets, reports, and dashboards and how they relate to each other ?
+
+Ans ->
+
+In Power BI, datasets or reports and dashboards work together seamlessly to facilitate data analysis and visualization. Let’s explore their interconnection relationship with below points:
+
+1.Datasets: These serve as the building blocks of analysis, acting as collections of data imported or connected from various sources. 
+  Each dataset can include one or multiple tables. Datasets provide the foundation for generating insights and making data-driven decisions.
+
+2.Reports: Once data is gathered in datasets, reports bring it to life visually. These reports contain charts, graphs, and tables that offer insights and understanding of the underlying data. 
+  Reports enable users to analyze data trends, identify patterns, and communicate findings effectively.
+
+3.Dashboards: Dashboards condense information further, showcasing key metrics and insights from multiple reports or datasets on a single canvas. They provide a high-level overview, allowing 
+  users to quickly monitor key performance indicators. Dashboards offer a consolidated view of critical information, aiding in decision-making and strategic planning 
+  They provide a high-level overview, allowing users to quickly monitor key performance indicators.
+
+Q3. How reports can be created in power BI, explain two ways with Navigation of each ?
+
+Ams ->
+
+The two way to create Reports in Power BI: Two Divergent Paths ways to Data Insights
+Unveiling the way within your data requires the right tools. Power BI grants you two distinct, yet equally powerful, approaches to crafting impactful reports:
+
+1. Unleashing Creativity with Power BI Desktop:
+- Dive into the dedicated application: Launch Power BI Desktop, your personal data visualization studio.
+- Start with a blank canvas: Navigate to "File" > "New" > "Report" to begin your creative journey.
+- Transform data into visual narratives: Craft compelling stories using the intuitive "Visualizations" pane, brimming with charts, graphs, and other elements that bring your data to life.
+- Unlock deeper insights with DAX: Go beyond the surface layer and empower your reports with calculated measures, crafted using the powerful DAX formula language.
+
+2. Foster Collaboration and Sharing with Power BI Service:
+- Access your reports and collaborate seamlessly: Open the Power BI Service, your centralized online hub for collaboration and report sharing.
+- Choose your starting point: Opt for "Create" > "Report" to embark on a report from scratch, or leverage existing data by selecting a dataset and choosing "Create" > "Report" to build upon its foundation.
+
+Regardless of your preferred path, Power BI equips you with the tools to transform raw data into actionable insights. From the comprehensive power of Power BI Desktop to the 
+collaborative environment of Power BI Service, this versatile platform empowers you to choose the method that best suits your needs and unlock the full potential of your data.
+
+Q4. How to connect to data in Power BI? How to use the content pack to connect to google analytics? Mention the steps ?
+
+Ans ->
+
+Connecting to data in Power BI is a breeze! Here's how to use a content pack like Google Analytics:
+
+1. Head to the Home tab: In Power BI, click on the "Home" tab.
+2. Initiate data acquisition: Click on "Get Data" to begin the process.
+3. Navigate to services: Under the "Services" category, choose "Get."
+4. Select your data source: From the available options, select "Google Analytics."
+5. Authenticate your account: Sign in using your Google Analytics account credentials.
+6. Choose your view: Select the specific Google Analytics view you want to connect to.
+7. Establish the connection: Click "Connect" to establish the connection.
+8. Import the data: Choose the tables or fields you want to import and click "Load" to bring the data into Power BI.
+
+Now you're ready to explore and analyze your Google Analytics data within Power BI
+
+Q5. How to import Local files in Power BI? Mention the Steps ?
+
+Ans ->
+
+Importing local files into Power BI is a breeze, allowing you to effortlessly integrate your data for analysis:
+
+1. Launch the Data Acquisition Process:
+- Navigate to the "Home" tab in Power BI.
+- Click on "Get Data" to initiate the process of bringing your data into the platform.
+2. Select Your Data Source:
+- Choose the appropriate file type from the list, such as "Excel," "CSV," or "Text/CSV." 
+3. Locate Your File:
+- Use the browse function to navigate to the location of the local file on your computer.
+4. Import and Explore:
+- Select the desired file and click "Open" or "Load" to import the data into Power BI.
+- Your local data is now readily available for exploration, analysis, and visualization within Power BI.
+
+Q6. In Power BI visualization, what are Reading View and Editing view ? 
+
+Ans ->
+
+In Power BI visualization, Reading View and Editing View serve different purposes:
+
+Reading View:
+This view allows users to interact with and explore the visualizations in a report without making any changes. Users can filter, drill down, and analyze data 
+in the visualizations but cannot modify the report layout or create new visualizations. Additional points include the ability to apply filters and slicers to analyze specific
+subsets of data, explore data hierarchies and details with drill-down capabilities, and access additional information through interactive features like tooltips.
+Editing View:
+This view enables users to edit and customize the report layout, add new visualizations, modify existing ones, and create calculated measures using DAX. 
+It provides full editing capabilities for designing and refining reports. Additional points encompass the ability to rearrange visualizations and adjust their size and formatting, 
+add new visualizations from the Visualizations pane, apply advanced features such as conditional formatting and custom visuals, and utilize the Power BI Desktop's formula bar for 
+creating calculated measures and columns using DAX expressions.
