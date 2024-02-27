@@ -1,0 +1,62 @@
+Q1. How and when to use the AutoSum command in excel ?
+
+Ans ->
+
+The AutoSum feature in Excel is a very useful and convenient tool that simplifies the task of adding up values in a column or row. 
+It's akin to having an automatic calculator that does the addition for you. Understanding how and when to utilize AutoSum can 
+significantly enhance your data analysis activities.
+
+let us see how to implement it Step-by-step:
+1. Cell Selection: To employ AutoSum, start by selecting the cell where you want the sum to be displayed. This is usually the cell directly beneath a column of 
+   numbers or to the right of a row of numbers that you wish to add up.
+2. Activate AutoSum: Press the AutoSum button located on the Excel Ribbon in the "Editing" group or use the keyboard shortcut Alt + Equals (=). 
+   Excel will automatically try to determine the range of cells to add based on the surrounding data.
+3. Modify Range (if necessary): If Excel's guess is not accurate, you can modify the range by dragging to select the required cells or by manually entering the range.
+4. Confirm with Enter: After you've chosen the range, press Enter to finalize the AutoSum calculation. Excel will immediately 
+   compute the sum of the selected range and show the result in the chosen cell.
+
+When to Utilize AutoSum at right time:
+- Adding Columns: Use AutoSum to swiftly compute the total of values in a column, such as sales data or expenses.
+- Adding Rows: Similarly, use AutoSum to calculate totals across rows, like monthly expenditures or sales by region.
+- Verifying Totals: AutoSum can also be employed to check totals calculated by hand, ensuring precision and efficiency in your computations.
+- Refreshing Totals: When you insert or delete data in a column or row, AutoSum automatically refreshes the total, sparing you the time and effort of recalculating.
+
+Q2. What is the shortcut key to perform AutoSum ?
+
+Ans -> 
+
+Alt + =
+
+Q3. How do you get rid of Formula that omits adjacent cells ?
+
+Ans ->
+
+To remove a formula that excludes adjacent cells in Excel you can transform the formula into static values using the "Paste Special" function. 
+Here are the step to follow:
+1. Choose the cell or group of cells that contain the formula you wish to change into static values.
+2. Right-click on the chosen cells and select "Copy" from the context menu, or use Ctrl + C to copy.
+3. Right-click on the same chosen cells again, but this time, select "Paste Special" from the context menu. Alternatively, you can use Alt + E + S on your keyboard to bring up the "Paste Special" dialog box.
+4. In the "Paste Special" dialog box, choose the "Values" option. This will paste the copied cells as static values, replacing the formulas.
+5. Click "OK" to confirm and close the dialog box.
+
+Q4. How do you select non-adjacent cells in Excel 2016 ?
+
+Ans ->
+
+follow this steps to adjacent the cells --
+1. Click on the initial cell you wish to select.
+2. Press and hold the Ctrl key on your keyboard.
+3. With the Ctrl key still pressed, click on each other cell you wish to add to your selection.
+4. Let go of the Ctrl key once you've finished selecting the cells.
+
+Q5. What happens if you choose a column, hold down the Alt key and press the lettersocw in quick succession ?
+
+Ans ->
+
+It will quickly adjust columns width 
+
+Q6. If you right-click on a row reference number and click on Insert, where will the row be added ?
+
+Ans ->
+
+it will create a new row above the row you clicked on.
