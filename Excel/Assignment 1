@@ -1,1 +1,14 @@
+Q1. What do you mean by cells in an excel sheet ?
 
+Ans ->
+
+In Excel, cells are the tiny rectangular compartments you observe when you launch a spreadsheet. Each cell possesses its own distinct address, similar to a residence
+on a lane. This address is a fusion of a letter for the column and a digit for the row, such as A1, B2, and so forth. Consider cells as receptacles where you can place diverse types of
+data, like numerals, words, or even formulas that carry out computations. They are akin to the sections in a storage cabinet where you sort your items. 
+Cells facilitate you to neatly sort and manipulate data, simplifying the task of dealing with large volumes of information in a structured manner.
+here are some points:
+1. Address: Each cell possesses a unique address composed of a column letter and a row number, like A1 or B2.
+2. Containers: Cells function as receptacles where you can store diverse types of data, such as numerals, text, or formulas.
+3. Organization: Cells assist in organizing information in a spreadsheet, simplifying its readability and usability.
+4. Manipulation: You can execute various operations on cells, like inputting data, modifying content, or applying formulas to compute results.
+5. Structured Data: Cells facilitate the creation of structured data sets, enabling efficient analysis and presentation of information in Excel.
