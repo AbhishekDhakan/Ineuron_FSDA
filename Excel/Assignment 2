@@ -54,4 +54,25 @@ d. COUNT Function: Tallies the number of cells in a range that encompass numbers
 e. CONCATENATE Function: Amalgamates the text from multiple cells into a single cell.
 
 Q5. When would you use the subtotal function ?
+
+Ans ->
+
+The SUBTOTAL function in Excel is a potent instrument for computing subtotals within a dataset, especially in situations where you need to carry out calculations on
+filtered or grouped data. It's akin to obtaining the subtotal of your grocery bill after applying discounts or taxes. This function is advantageous when you wish to disregard hidden 
+rows or filtered-out values in your calculations. For example, if you possess a large dataset with diverse categories and you aim to calculate subtotals for each category while 
+excluding any filtered-out or hidden rows, the SUBTOTAL function proves useful. It's frequently used in financial analysis, inventory management, and data summarization
+tasks where you require precise subtotals without incorporating irrelevant or filtered data.
+
 Q6. What is the syntax of the vlookup function? Explain the terms in it ?
+
+Ans ->
+
+Syntax: =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+
+The VLOOKUP function in Excel is a potent instrument used for locating a value in the first column of a table or range and fetching a value in the same row from a different column. 
+1. Lookup_value: This is the value you aim to locate in the first column of your table or range. It's the value you're attempting to match, like your friend's name in the phone directory.
+2. Table_array: This parameter designates the table or range of cells where Excel should look for the lookup value. It's akin to directing Excel to the location of your phone directory.
+3. Col_index_num: This argument signifies the column number in the table_array from which you wish to fetch a value. It's like pinpointing which column holds the information you want to extract,
+    such as the column with contact numbers in your phone directory.
+4. [Range_lookup]: This parameter is optional and can be either TRUE or FALSE. If TRUE or omitted, VLOOKUP will find the nearest match. If FALSE, it will only find an exact match. 
+   It's like instructing Excel whether you want an exact match or are fine with a close match.
