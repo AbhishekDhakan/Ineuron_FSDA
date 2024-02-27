@@ -49,7 +49,7 @@ Q4. Which key is used as a shortcut for opening a new window document ?
 
 Ans -> ctrl + N
 
-Q6. What are the things that we can notice after opening the Excel interface ?
+Q5. What are the things that we can notice after opening the Excel interface ?
 
 Ans ->
 
@@ -59,3 +59,13 @@ houses tabs like Home, Insert, and Formulas, each offering different commands an
 can directly input or modify formulas or data. Cells are found at the intersection of rows and columns, each distinguished by a unique pairing of a 
 column letter and a row number. You might also spot additional elements such as the Quick Access Toolbar at the top left, which lets you personalize shortcuts
 for commonly used commands. In summary, the Excel interface offers a user-friendly platform for data creation, modification, and analysis.
+
+Q6. When to use a relative cell reference in excel ?
+
+Ans ->
+
+When you open Excel, the initial sight is typically a blank workbook, which appears as a grid of rows and columns. This space is designated for data entry, 
+calculations, and the creation of diverse content. The Ribbon, situated at the top of the interface, houses tabs like Home, Insert, and Formulas, each offering a 
+variety of commands and features. Beneath the Ribbon is the formula bar, a space for direct input or modification of formulas and data. Cells are found at the intersections 
+of rows and columns, each uniquely identified by a column letter and a row number. You might also spot the Quick Access Toolbar at the top left, which facilitates 
+the customization of shortcuts for commonly used commands. In essence, the Excel interface provides a user-friendly platform for data creation, editing, and analysis.
