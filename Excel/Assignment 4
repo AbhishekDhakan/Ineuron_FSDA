@@ -1,0 +1,55 @@
+Q1. To use the ribbon commands, what menu and grouping of commands will you find the Insert and Delete command ?
+
+Ans ->
+
+To use the ribbon commands for Insert and Delete functions in Excel you will find them under "Home" menu tab in the grouping of "Cells".
+
+Q2. If you set a row height or column width to 0 (zero), what happens to the row and column ?
+
+Ans ->
+
+It will hide row & column and its content only when the width of row & column is set to 0.
+
+Q3. Is there a need to change the height and width in a cell? Why ?
+
+Ans ->
+
+Yes, i would say Modifying the dimensions of cells in Excel like their height and width its crucial for a variety of reasons, primarily to fit content and improve readability.
+Altering the height of rows and width of columns ensures that text and data are properly accommodated within cells, preventing them from being truncated or overlapping with adjacent cells. 
+This is especially beneficial when handling larger text inputs or multiline content. Furthermore, adjusting cell sizes enhances the visual appeal of your
+spreadsheet, enabling you to structure and present data more efficiently. Personalizing cell sizes based on your needs and preferences improves the user experience and adds to the aesthetic value
+of the spreadsheet. Importantly, resizing cells is key to ensuring that all data is visible and correctly aligned, avoiding any truncation or distortion of content. 
+some key featuers to be done while their in Points:
+1. Text Accommodation: Modifying cell height caters to larger text or multiline entries, preventing them from being truncated.
+2. Readability Enhancement: Altering the height of rows and width of columns provides more room for content, thereby improving readability.
+3. Visual Appeal: Adjusting cell sizes improves the visual appeal of the spreadsheet, facilitating effective data organization and presentation.
+4. Personalization: Resizing cells based on individual preferences and requirements enhances the user experience and the aesthetic value of the spreadsheet.
+5. Data Visibility: Adjusting dimensions ensures all data within cells is properly aligned and visible, avoiding any truncation or distortion.
+
+Q4. What is the keyboard shortcut to unhide rows ?
+
+Ans ->
+
+To unhide rows press ctrl + shift + 9 
+
+Q5. How to hide rows containing blank cells ?
+
+Ans ->
+
+To hide rows with empty cells in Excel, following this steps :
+a. Highlight the dataset where you intend to conceal rows with empty cells.
+b. Navigate to the "Data" tab and select "Filter."
+c. Press the drop-down arrow in the column header that might contain empty cells.
+d. Deselect the checkbox adjacent to "Blanks" in the filter menu.
+e. Press "OK" or "Apply" to enforce the filter.
+f. Excel will then conceal the rows with empty cells in the chosen column.
+g. To reveal all rows once more, eliminate the filter by selecting "Select All" or erasing any filter criteria.
+  By using this method, you can efficiently conceal rows with empty cells in Excel via the filter function.
+
+Q6. What are the steps to hide the duplicate values using conditional formatting in excel ?
+
+Ans ->
+
+If you want to hide the same values in Excel, first choose the data you're working on. Then, find "Conditional Formatting" under "Home." 
+After that, click on "Highlight Cells Rules," then "Duplicate Values." Next, choose how you want it to look.
+then click "OK" to make it happen.
